@@ -1,6 +1,6 @@
 ---
 title: "Video: The Censored Radiohead Song"
-excerpt: 'A YouTube video exploring the history of a peculiar Radiohead track.<br/><a href="https://www.youtube.com/watch?v=gQxfdacPpgo"><img src="https://img.youtube.com/vi/gQxfdacPpgo/0.jpg" width="100" height="132"></a>'
+excerpt: 'A YouTube video exploring the history of a peculiar Radiohead track.<br/><a href="https://www.youtube.com/watch?v=gQxfdacPpgo"><img src="https://img.youtube.com/vi/gQxfdacPpgo/0.jpg" width="500" height="300"></a>'
 collection: portfolio
 ---
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gQxfdacPpgo/0.jpg)](https://www.youtube.com/watch?v=gQxfdacPpgo)
