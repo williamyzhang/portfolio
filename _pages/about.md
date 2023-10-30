@@ -4,7 +4,7 @@ title: "About this portfolio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about.html
+  - /home
 ---
 
 Welcome to my digital media portfolio!
