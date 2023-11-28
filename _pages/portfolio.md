@@ -25,11 +25,18 @@ A short story I originally wrote for a creative writing group at Oxford. I aim t
 
 ## Data Visualization Samples
 {% include datavis.html %}
+[![Cars chart](https://williamyzhang.github.io/images/datavis-preview.png) "Try out the chart"](https://williamyzhang.github.io/datavis/cars/)
+[![Density map](https://williamyzhang.github.io/images/datavis-preview2.png) "Try out the map"](https://williamyzhang.github.io/datavis/pop-density/)
+[![Wonders map](https://williamyzhang.github.io/images/datavis-preview3.png) "Try out the map"](https://williamyzhang.github.io/datavis/wonders/)
 
 Some examples of interactive data visualizations made in the JavaScript D3 library. Originally made for a class, with some modifications.
 
 ## Music: Instrumentals
 {% include music.html %}
+
+These are instrumentals from songs I wrote and produced with the vocal tracks removed, so that the listener can better focus on their musical composition and structure.
+
+[Here are other tracks](https://jupitergarage.bandcamp.com/album/instrumentals)
 
 ## Essay: The Better Symphony 
 
