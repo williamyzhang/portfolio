@@ -29,3 +29,11 @@ A short story I originally wrote for a creative writing group at Oxford. I aim t
 [![Preview of map](../images/datavis-preview3.png "Try out the map!")](https://williamyzhang.github.io/datavis/wonders/)
 
 Some examples of interactive data visualizations made in the JavaScript D3 library. Originally made for a class, with some modifications.
+
+## Music: Instrumentals
+![Dog Days](../files/dog-days.wav?controlsList=nodownload-nofullscreen-noremoteplayback)
+
+<audio  id="dog days are over"
+        preload="audio"
+        src="../files/dog-days.wav"
+></audio>
