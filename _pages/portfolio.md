@@ -25,11 +25,14 @@ A short story I originally wrote for a creative writing group at Oxford. I aim t
 
 ## Data Visualization Samples
 {% include datavis.html %}
-<a href="https://williamyzhang.github.io/datavis/cars/"><img src=https://williamyzhang.github.io/images/datavis-preview.png width="340" height="200"></a>
-<a href="https://williamyzhang.github.io/datavis/pop-density/"><img src=https://williamyzhang.github.io/images/datavis-preview2.png width="200" height="200"></a>
-<a href="https://williamyzhang.github.io/datavis/wonders/"><img src=https://williamyzhang.github.io/images/datavis-preview3.png width="380" height="200"></a>
 
 Some examples of interactive data visualizations made in the JavaScript D3 library. Originally made for a class, with some modifications.
 
 ## Music: Instrumentals
 {% include music.html %}
+
+## Essay: The Better Symphony 
+
+[Read the paper here](https://williamyzhang.github.io/portfolio/files/the-better-symphony-beethoven-paper.pdf)
+
+A short paper I researched and wrote about Beethoven's 8th Symphony. This paper was written for Prof. Sisman's class on Beethoven, which was one of my favorite classes I took at Columbia. I drew on the past century of work in musicology to come to a better understanding of one of Beethoven's more mysterious and less popular symphonies, the 8th. 
