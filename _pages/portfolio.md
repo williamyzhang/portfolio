@@ -24,9 +24,9 @@ Works best in Chrome.
 A short story I originally wrote for a creative writing group at Oxford. I aim to explore themes of memory, legacy, and ambition through a portrayal of life in the Midwest.
 
 ## Data Visualization Samples
-[![Preview of cars graph](../images/datavis-preview.png "Try out the graph!")](https://williamyzhang.github.io/datavis/cars/)
-[![Preview of density map](../images/datavis-preview2.png "Try out the map!")](https://williamyzhang.github.io/datavis/pop-density/)
-[![Preview of map](../images/datavis-preview3.png "Try out the map!")](https://williamyzhang.github.io/datavis/wonders/)
+<a href="https://williamyzhang.github.io/datavis/cars/"><img src=https://williamyzhang.github.io/images/datavis-preview.png width="340" height="200"></a>
+<a href="https://williamyzhang.github.io/datavis/pop-density/"><img src=https://williamyzhang.github.io/images/datavis-preview2.png width="200" height="200"></a>
+<a href="https://williamyzhang.github.io/datavis/wonders/"><img src=https://williamyzhang.github.io/images/datavis-preview3.png width="380" height="200"></a>
 
 Some examples of interactive data visualizations made in the JavaScript D3 library. Originally made for a class, with some modifications.
 
