@@ -24,13 +24,12 @@ Works best in Chrome.
 A short story I originally wrote for a creative writing group at Oxford. I aim to explore themes of memory, legacy, and ambition through a portrayal of life in the Midwest.
 
 ## Data Visualization Samples
-<p><a href="https://williamyzhang.github.io/datavis/cars/"><img src=https://williamyzhang.github.io/images/datavis-preview.png width="340" height="200"></a>
+{% include datavis.html %}
+<a href="https://williamyzhang.github.io/datavis/cars/"><img src=https://williamyzhang.github.io/images/datavis-preview.png width="340" height="200"></a>
 <a href="https://williamyzhang.github.io/datavis/pop-density/"><img src=https://williamyzhang.github.io/images/datavis-preview2.png width="200" height="200"></a>
-<a href="https://williamyzhang.github.io/datavis/wonders/"><img src=https://williamyzhang.github.io/images/datavis-preview3.png width="380" height="200"></a></p>
+<a href="https://williamyzhang.github.io/datavis/wonders/"><img src=https://williamyzhang.github.io/images/datavis-preview3.png width="380" height="200"></a>
 
 Some examples of interactive data visualizations made in the JavaScript D3 library. Originally made for a class, with some modifications.
 
 ## Music: Instrumentals
-<h1>test</h1>
-<audio  id="dog days are over" preload="audio" src="../files/dog-days.wav"></audio>
-no playback?
+{% include music.html %}
