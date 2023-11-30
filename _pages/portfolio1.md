@@ -8,7 +8,7 @@ author_profile: false
 ## Video: The Censored Radiohead Song
 
 <a href="https://www.youtube.com/watch?v=gQxfdacPpgo" target="_blank"><img src="https://img.youtube.com/vi/gQxfdacPpgo/0.jpg" alt="Video thumbnail" 
-title="Watch the video"></a>
+title="Watch the video" width="426" height="240"></a>
 
 A short video I researched, wrote, and edited about the history and context surrounding Radiohead's song "Pop Is Dead", which ultimately garnered over 200k views. I was inspired to create it when I discovered the song through an unofficial Vimeo upload and realized I had never heard of it because the band had actively removed it from any official online record. In the video, I delve into how the song came about and why Radiohead might have decided that they didn't want it online.
 
