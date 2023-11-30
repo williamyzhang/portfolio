@@ -46,6 +46,8 @@ Leadership and volunteer experience
 ======
 * Columbia University Bach Society, Senior Principal Cellist, Sep 2021 - present
   * Lead the cello section, schedule sectional rehearsals, and organize team building activities
+* St Anne's Creative Writing Group, Organizer, Oct 2022 - Jun 2023
+  * Sought out writers and directed weekly workshops involving both visiting students and full-time Oxford students
 * Mentoring Youth NYC, Sep 2020 - Jan 2022
   * Guided high school students through the college application process and transition to college life. I collaborate with them to brainstorm and revise college essays, and I review applications for scholarship programs. I also ensure students’ safety and confidentiality in an Internet-facilitated environment
 * West High Science Olympiad, Sep 2018 - May 2020
