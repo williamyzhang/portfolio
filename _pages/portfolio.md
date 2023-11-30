@@ -6,6 +6,9 @@ author_profile: false
 ---
 
 ## Video: The Censored Radiohead Song
+
+<a href="https://www.youtube.com/watch?v=gQxfdacPpgo" target="_blank"><img src="https://img.youtube.com/vi/gQxfdacPpgo/0.jpg" alt="Video thumbnail"></a>
+
 [![Video thumbnail](https://img.youtube.com/vi/gQxfdacPpgo/0.jpg)](https://www.youtube.com/watch?v=gQxfdacPpgo "Watch the video")
 
 A short video I researched, wrote, and edited about the history and context surrounding Radiohead's song "Pop Is Dead", which ultimately garnered over 200k views. I was inspired to create it when I discovered the song through an unofficial Vimeo upload and realized I had never heard of it because the band had actively removed it from any official online record. In the video, I delve into how the song came about and why Radiohead might have decided that they didn't want it online.
@@ -18,10 +21,12 @@ This is a spinoff of a project for my Computational Sound course.
 
 Works best in Chrome.
 
+<span style="color:blue">
 ## Fiction: In Memory of Peter Mettier
 [Read the story here](https://williamyzhang.github.io/portfolio/files/in-memory-of-peter-mettier.pdf)
 
 A short story I originally wrote for a creative writing group at Oxford. I aim to explore themes of memory, legacy, and ambition through a portrayal of life in the Midwest.
+</span>
 
 ## Data Visualization Samples
 
@@ -42,4 +47,4 @@ These are instrumentals from songs I wrote and produced with the vocal tracks re
 
 [Read the paper here](https://williamyzhang.github.io/portfolio/files/the-better-symphony-beethoven-paper.pdf)
 
-A short paper I researched and wrote about Beethoven's 8th Symphony. This paper was written for Prof. Sisman's class on Beethoven, which was one of my favorite classes I took at Columbia. I drew on the past century of work in musicology to come to a better understanding of one of Beethoven's more mysterious and less popular symphonies, the 8th. 
+A short paper I researched and wrote about Beethoven's 8th Symphony. This paper was written for Prof. Sisman's class on Beethoven, which was one of my favorite classes I took at Columbia. I draw on the past century of work in musicology to come to a better understanding of one of Beethoven's more mysterious and less popular symphonies, the 8th. 
